@@ -1,5 +1,5 @@
 # dadjokes
-
+A simple app build with Nuxt contain Dad Jokes API
 ## Build Setup
 
 ```bash
